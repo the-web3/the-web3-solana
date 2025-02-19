@@ -5,6 +5,8 @@
 
 **Solana Co-Learning** is an open-source project designed to help developers and community members deeply understand and practice Solana blockchain development techniques and best practices. Through this project, you will gain hands-on experience in building and deploying smart contracts (particularly using Solana's Rust and Anchor framework) and interacting with the Solana network.
 
+**Note**: To view this README in **Chinese**, please refer to the [Chinese version here](./README.zh.md).
+
 ## Project Objectives
 
 - Provide a structured Solana development tutorial covering smart contract creation, deployment, testing, and optimization.
@@ -101,6 +103,28 @@ Once your development environment is set up, you can start building DApps on Sol
 
 4. **Token Management**: Create, distribute, and manage Solana-based tokens, understanding the mechanics of Solana’s token standard.
 
+## Learning Resources
+
+To deepen your understanding of Solana development and blockchain programming, here are some helpful resources:
+
+- [Solana Documentation](https://docs.solana.com/) - Comprehensive resource for all things Solana, from core concepts to advanced features.
+- [Anchor Documentation](https://www.anchor-lang.com/docs/) - A guide to using the Anchor framework for Solana smart contract development.
+- [Solana](https://www.youtube.com/@SolanaFndn) - The official Solana channel with tutorials, talks, and development-related content.
+
+- [Solana CLI](https://docs.solana.com/cli) - Command-line tools for interacting with the Solana blockchain.
+- [Anchor Framework](https://www.anchor-lang.com/) - A framework for writing Solana smart contracts in Rust.
+- [Phantom Wallet](https://www.phantom.app/) - A popular wallet for interacting with Solana-based DApps.
+- [Solana Developer Resources](https://github.com/CristinaSolana/solana-developer-resources)
+- [Solana秘籍](https://solanacookbook.com/zh/)
+- [Solana中文开发教程](https://www.solanazh.com/)
+- [Solana Cookbook](https://solana.com/zh/developers/cookbook#contributing)
+- [Solana Co-Learning#3](https://github.com/706creators/solana-co-learn?tab=readme-ov-file)
+
+## Solana Explorer
+
+- [Solana Explorer](https://explorer.solana.com/) - Explore the Solana blockchain, view transactions, and search for accounts and tokens.
+- [Solana Explorer](https://solscan.io/) - Another explorer for Solana, offering additional features and insights.
+
 ## Contributing
 
 We welcome contributions from everyone! Whether you're fixing bugs, adding new features, or improving documentation, your contributions help make **Solana Co-Learning** better. Please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed instructions on how to contribute.
@@ -113,9 +137,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or support, please feel free to open an issue or reach out directly to the maintainers.
 
-- [GitHub Issues](https://github.com/yourusername/solana-co-learning/issues)
+- [GitHub Issues](https://github.com/the-job-org/solana-co-learning/issues)
 - [Solana Developer Documentation](https://docs.solana.com/)
-- [Anchor Documentation](https://project-serum.github.io/anchor/)
+- [Anchor Documentation](https://www.anchor-lang.com/docs/)
 
 ---
 
