@@ -125,6 +125,32 @@ To deepen your understanding of Solana development and blockchain programming, h
 - [Solana Explorer](https://explorer.solana.com/) - Explore the Solana blockchain, view transactions, and search for accounts and tokens.
 - [Solana Explorer](https://solscan.io/) - Another explorer for Solana, offering additional features and insights.
 
+## How to Co-Learn
+
+Welcome to the **Solana Co-Learning** project! Follow these steps to participate and contribute your learning journey:
+
+### Step 01: Fork the Repository
+
+- Click the `Fork` button at the top-right of the GitHub page to create a copy of this repository under your GitHub account.
+
+### Step 02: Create Your Personal Notes
+
+1. In your forked repository, duplicate the `template` folder.
+2. Rename the duplicated folder to your GitHub ID (e.g., `YourGitHubID`).
+3. Open the `Readme.md` file inside your renamed folder and fill in your personal information (e.g., name, GitHub ID, learning goals).
+4. Use this folder to document your learning journey:
+   - `code`: Store your code examples.
+   - `note`: Record your text-based notes.
+   - `img`: Add relevant images.
+
+### Step 03: Submit a Pull Request (PR)
+
+- Commit your changes to your forked repository.
+- Create a Pull Request (PR) on GitHub to merge your personal folder into the main repository.
+- Our team will review and merge your contribution!
+
+By sharing your notes, you’ll help others learn from your experience while deepening your own understanding of Solana development.
+
 ## Contributing
 
 We welcome contributions from everyone! Whether you're fixing bugs, adding new features, or improving documentation, your contributions help make **Solana Co-Learning** better. Please follow the guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed instructions on how to contribute.

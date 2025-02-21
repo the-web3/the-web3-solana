@@ -115,10 +115,36 @@ npm install
 - [Solana Cookbook](https://solana.com/zh/developers/cookbook#contributing)
 - [Solana Co-Learning#3](https://github.com/706creators/solana-co-learn?tab=readme-ov-file)
 
-## Solana Explorer
+## Solana 浏览器
 
 - [Solana Explorer](https://explorer.solana.com/) - 探索 Solana 区块链，查看交易，搜索账户和 Token。
 - [Solana Explorer](https://solscan.io/) - 另一个 Solana 区块链浏览器，提供额外的功能和视图。
+
+## 如何参与共学
+
+欢迎加入 **Solana 共学项目**！请按照以下步骤参与并分享你的学习旅程：
+
+### Step 01: Fork 本仓库
+
+- 点击 GitHub 页面右上角的 `Fork` 按钮，将本仓库复制到你的 GitHub 账户下。
+
+### Step 02: 创建个人笔记文件
+
+1. 在你 Fork 的仓库中，复制 `template` 文件夹。
+2. 将复制的文件夹重命名为你的 GitHub ID（例如：`YourGitHubID`）。
+3. 打开重命名后的文件夹中的 `Readme.md` 文件，填写你的个人信息（例如姓名、GitHub ID、学习目标）。
+4. 在该文件夹下记录你的学习过程：
+   - `code`：存放代码示例。
+   - `note`：记录文字笔记。
+   - `img`：添加相关图片。
+
+### Step 03: 提交 Pull Request (PR)
+
+- 将你的更改提交到你的 Fork 仓库。
+- 在 GitHub 上发起一个 Pull Request (PR)，将你的个人文件夹合并到主仓库。
+- 我们的团队将审核并合并你的贡献！
+
+通过分享你的笔记，你将帮助他人从你的经验中学习，同时加深自己对 Solana 开发的理解。
 
 ## 贡献
 
