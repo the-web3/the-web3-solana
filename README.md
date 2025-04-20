@@ -1,6 +1,6 @@
 # The Web3 社区 Solana 开发者训练营课程大纲
 
-- (Web3 过去, 现在和未来全面解析)[./resource/web3-hisitory-now-future.md]
+- [Web3 过去, 现在和未来全面解析](./resource/web3-hisitory-now-future.md)
 - 什么是区块链，区块链的构成元素
 - Rust 编程语言学习
   - Rust Web3 行业的地位分析 
