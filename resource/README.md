@@ -8,7 +8,7 @@
 - [智能合约开发](smart-contracts.md)
 - [DApp 开发](dapps.md)
 - [NFT 开发](nft.md)
-- [DeFi 应用](defi.md)
+- [DeFi 应用](rust/defi.mdfi.md)
 
 示例代码存放在 [example-code](example-code/) 文件夹中。
 
