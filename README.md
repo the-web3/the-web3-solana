@@ -1,4 +1,4 @@
-# The Web3 社区 Solana 开发者训练营课程大纲
+# The Web3 社区 Solana 开发者训练营课程
 
 - [开课](./resource/start.md)
 
