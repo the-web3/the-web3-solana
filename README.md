@@ -28,16 +28,16 @@
 
 
 ## 第五部分：Solana 项目实战
-- [Solana 钱包开发实战](./resource/solana/wallet.md) 
-- [Anchor 框架基础概念讲解](./resource/solana/anchor-introdution.md)
-- [基于 anchor 开发自己的第一个项目](./resource/solana/anchor-first-project.md) 
-- [Spl-Token 和 NFT详细节介绍](./resource/solana/token-and-nft.md) 
-- [Soalan 发行自己的第一个代币](./resource/solana/issure-token.md) 
-- [Solana 上 NFT 项目开发实战](./resource/solana/nft.md) 
-- [Solana 去中心化随机数开发实战](./resource/solana/drng.md) 
-- [Solana 合约事件监听开发实战](./resource/solana/event.md) 
-- [基于 Solana 开发 Dex 项目实战](./resource/solana/dex.md) 
-- [基于 Solana 开发质押借贷协议项目实战](./resource/solana/appchain.md) 
+- [Solana 钱包开发实战](./resource/project/wallet.md) 
+- [Anchor 框架基础概念讲解](./resource/project/anchor-introdution.md)
+- [基于 anchor 开发自己的第一个项目](./resource/project/anchor-first-project.md) 
+- [Spl-Token 和 NFT详细节介绍](./resource/project/token-and-nft.md) 
+- [Soalan 发行自己的第一个代币](./resource/project/issure-token.md) 
+- [Solana 上 NFT 项目开发实战](./resource/project/nft.md) 
+- [Solana 去中心化随机数开发实战](./resource/project/drng.md) 
+- [Solana 合约事件监听开发实战](./resource/project/event.md) 
+- [基于 Solana 开发 Dex 项目实战](./resource/project/dex.md) 
+- [基于 Solana 开发质押借贷协议项目实战](./resource/project/appchain.md) 
 - [基于 Solana 开发应用链项目实战(看课程时间进行安排，时间不够的话会取消)](./resource/solana/)
 
 ------------------------------------------------------------------------------------------------------------
